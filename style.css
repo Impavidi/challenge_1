@@ -3,14 +3,14 @@ body
 	background-color: hsl(212, 45%, 89%);
 }
 
-p
+p, h1
 {
 	font-family: 'Outfit', sans-serif;
 	text-align: center;
 	margin: 10px;
 }
 
-#intitule
+h1
 {
 	color: hsl(218, 44%, 22%);
 	font-weight: 700;
