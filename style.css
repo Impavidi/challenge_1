@@ -24,7 +24,7 @@ p
 	font-size: 15px;
 	padding-bottom: 20px;
 }
-#main
+main
 {
 	background-color: white;
 	border: 3px white solid;
@@ -45,7 +45,7 @@ img
 	margin: 5px;
 }
 
-#main:hover
+main:hover
 {
 	box-shadow: 0px 45px 30px hsl(220, 15%, 55%);
 	position: relative;
