@@ -3,7 +3,7 @@ body
 	background-color: hsl(212, 45%, 89%);
 }
 
-p, h1
+p h1
 {
 	font-family: 'Outfit', sans-serif;
 	text-align: center;
