@@ -3,7 +3,7 @@ body
 	background-color: hsl(212, 45%, 89%);
 }
 
-p h1
+p
 {
 	font-family: 'Outfit', sans-serif;
 	text-align: center;
@@ -16,6 +16,9 @@ h1
 	font-weight: 700;
 	font-size: 18px;
 	width:220px;
+	font-family: 'Outfit', sans-serif;
+	text-align: center;
+	margin: 10px;
 }
 #details
 {
